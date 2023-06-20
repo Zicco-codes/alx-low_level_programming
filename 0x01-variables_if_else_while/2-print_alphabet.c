@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+/**
+ * main - print from a to z
+ * Return: Alway 0
+ */
+
+int main(void)
+
+{
+	int n = 97;
+
+	while (n <= 122)
+
+	{
+		putchar(n);
+		n++;
+	}
+	putchar('\n');
+	return (0);
+}
