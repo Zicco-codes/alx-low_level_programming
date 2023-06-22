@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * jack_bauer - print the minute of a day
+ * jack_bauer - Print the minutes of a day.
  *
- * Return: no return
+ * Return: No return.
  */
 void jack_bauer(void)
 {
